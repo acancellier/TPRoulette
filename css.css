@@ -1,0 +1,43 @@
+body{
+	text-align: center;
+}
+p{
+	margin-left: 29%;
+	margin-right: 29%;
+}
+h1{
+	text-align: center;
+}
+h4{
+	padding-top: 15px;
+	color: orange;
+	height: 30px;
+}
+.centrer{
+	width:200px;
+	margin:auto;
+}
+#deco{
+text-align: left;
+}
+.header{
+	background-color: #007bff;
+	height: 50px;
+}
+.lancer{
+	background-color: #ffc107;
+	padding-top: 10px;
+	height: 50px;
+	margin-bottom: 0;
+}
+.gainouperte{
+	background-color: #17a2b8;
+	padding-top: 10px;
+	height: 40px;
+}
+
+.erreur{
+	background-color: #dc3545;
+	padding-top: 10px;
+	height: 40px;
+}
